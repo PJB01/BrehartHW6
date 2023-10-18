@@ -1,3 +1,9 @@
+/* Created by Phil Brehart, this application copys the contents of a preexisting file to 
+a new file. The first argument is the existing file and the second is the new file. 
+
+Example invocation: ./mycopier sourcefile.txt destinationfile.txt
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
